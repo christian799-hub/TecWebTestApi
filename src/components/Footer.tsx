@@ -15,10 +15,10 @@ export default function Footer({ company, year }: FooterProps) {
       © {year} {company}
 
 
-      <h3>Información</h3>
+      <h3>Hola haciendo cambios</h3>
 
       <p>
-        <strong>Ciudad:</strong> {user.city} <strong>Carrera:</strong> {user.career} <strong>Email:</strong> {user.email}
+        <strong>Ciudad:</strong> {user.city} <strong>Carrera:</strong> {user.career} <strong>Email:</strong> {user.email} 
       </p>
       
     </footer>
