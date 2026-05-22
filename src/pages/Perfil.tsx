@@ -1,8 +1,5 @@
-import {getUser} from "../utils/auth";
 
 export default function Perfil() {
-
-  const user = getUser();
 
   return (
     <div>
