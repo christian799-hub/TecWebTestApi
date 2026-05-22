@@ -1,10 +1,10 @@
-export default function NotFound() {
+export default function Config() {
 
   return (
     <div>
 
       <h1>
-        404
+        Config
       </h1>
 
       <p>
